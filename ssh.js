@@ -1,1 +1,1 @@
-console.log('ssh key updated');
+console.log('added ssh key');
